@@ -1,5 +1,6 @@
 <body>
-  <img src = "![image](https://github.com/Rishi2705/Rishi2705/assets/149188304/8a87adb5-2b97-42b1-b0a8-5b1b2c3774b1)">
+  <img src = "![Android-JetpackCompose1 2-Header](https://github.com/Rishi2705/Rishi2705/assets/149188304/9d3e8b0a-d8d1-48dc-b729-bab7b1c87665)"
+>
 </body>
 ## Hi there 👋 I am Rishi Arora
 ## Passionate Android Developer from India
