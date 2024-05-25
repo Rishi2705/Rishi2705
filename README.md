@@ -1,7 +1,9 @@
 ## Hi there 👋 I am Rishi Arora
-## Passionate Android Developer from India IN
-
-##About me
+## Passionate Android Developer from India
+## About me 
+<ul><li>
+  Intermediate in Native Android Development 
+</li></ul>
 
 <!--
 **Rishi2705/Rishi2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
