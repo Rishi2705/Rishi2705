@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fandroid-developers.googleblog.com%2F2020%2F03%2Funveiling-apps-games-insights-podcast.html&psig=AOvVaw1k8IJLeSe9KTBY9E2YK6I6&ust=1725004853945000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDvlIjemYgDFQAAAAAdAAAAABAE)
+![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP232lRMJkVRYXD4XjRrB_M80fIHIog205FkQbM5jei5DifwyI_2_Bb0dLHyoK60fnfbIqNgS19WQM_6h0Dy2tvFy1g_uTkWXxiYnU-DxuAQhLRI8xbxuKRb5V7jQA1hgszpnO__2qSn8/s1600/Podcast_Android_Hero_4209x1253_25%2525.gif)
 <h1 align="center">Hi 👋, I'm Rishi Arora</h1>
 <h3 align="center">A Passionate Android Developer from India</h3>
 <img align ="right" alt = "Coding" width = "400" src= "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
