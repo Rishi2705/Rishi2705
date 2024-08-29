@@ -1,4 +1,4 @@
-![MasterHead](![new_banner](https://github.com/user-attachments/assets/f48998a5-2d80-4f23-bc6d-4ef4540f0982)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fandroid-developers.googleblog.com%2F2020%2F03%2Funveiling-apps-games-insights-podcast.html&psig=AOvVaw1k8IJLeSe9KTBY9E2YK6I6&ust=1725004853945000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDvlIjemYgDFQAAAAAdAAAAABAE)
 )
 <h1 align="center">Hi 👋, I'm Rishi Arora</h1>
 <h3 align="center">A Passionate Android Developer from India</h3>
